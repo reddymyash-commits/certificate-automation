@@ -1,6 +1,8 @@
 # Certificate Automation
-TEAM - MIRAETECH
-**Generate personalized certificates from Excel/CSV and email them automatically.
+
+**Team: MIRAETECH**
+
+Generate personalized certificates from Excel/CSV and email them automatically.
 
 **Event:** IEEE INGENIEUX 2026  
 **Hackathon Domain:** Automation
@@ -14,10 +16,7 @@ TEAM - MIRAETECH
 
 ## About the Project
 
-A Python and Streamlit application that reads student details
-from Excel/CSV, generates personalized PDF certificates using
-an uploaded template, and sends personalized emails with the
-correct certificate attached.
+A Python and Streamlit application that reads student details from Excel/CSV, generates personalized PDF certificates using an uploaded template, and sends personalized emails with the correct certificate attached.
 
 ## Features
 
@@ -27,4 +26,3 @@ correct certificate attached.
 - Bulk certificate download
 - Personalized email previews
 - Email sending with individual attachments
-
