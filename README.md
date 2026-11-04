@@ -1,4 +1,5 @@
 # Certificate Automation
+TEAM - MIRAETECH
 Generate personalized certificates from Excel/CSV and email them automatically.
 
 **Event:** IEEE INGENIEUX 2026  
@@ -6,7 +7,7 @@ Generate personalized certificates from Excel/CSV and email them automatically.
 
 ## Team Members
 
-- AV KARUNYA
+- A V KARUNYA
 - ATHARVA TRIVEDI
 - M YASH REDDY
 - ARNAV SHARMA
