@@ -1,6 +1,6 @@
 # Certificate Automation
 TEAM - MIRAETECH
-Generate personalized certificates from Excel/CSV and email them automatically.
+**Generate personalized certificates from Excel/CSV and email them automatically.
 
 **Event:** IEEE INGENIEUX 2026  
 **Hackathon Domain:** Automation
