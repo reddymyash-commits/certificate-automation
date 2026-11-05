@@ -26,3 +26,9 @@ A Python and Streamlit application that reads student details from Excel/CSV, ge
 - Bulk certificate download
 - Personalized email previews
 - Email sending with individual attachments
+
+##LLM'S Used-
+-ChatGPT
+
+##Editing Apps-
+-Canva
