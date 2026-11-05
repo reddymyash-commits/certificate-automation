@@ -27,8 +27,8 @@ A Python and Streamlit application that reads student details from Excel/CSV, ge
 - Personalized email previews
 - Email sending with individual attachments
 
-##LLM'S Used-
--ChatGPT
+## LLMs Used
+* ChatGPT
 
-##Editing Apps-
--Canva
+## Editing Apps Used
+* Canva
